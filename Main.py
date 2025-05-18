@@ -1,5 +1,5 @@
-import BST
-import MaxHeap
+from BST import BST
+from MaxHeap import MaxHeap
 
 tree = BST()
 heap = MaxHeap()
